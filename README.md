@@ -17,7 +17,7 @@ each subdirectory contains 3 files -
 - Problem 1 : Linear Search for a target element in an unsorted array of positive integers, print the number of total-comparisons made.
 - Problem 2 : Binary Search for a target element in a sorted array of positive integers, print the number of total-comparisons made.
 - Problem 3 : Jump Search for a target element in a sorted array of positive integers, print the number of total-comparisons made. 
-              - (jump size : 0, 2, 4, 8, ... , 2^k)
+  - (jump size : 0, 2, 4, 8, ... , 2^k)
 ## Week 2 :
 - Problem 1 : Find duplicates of a target element in a sorted array of positive integers, print the target and corresponding duplicates.
 - Problem 2 : Find three indices i, j, k in a sorted array of positive integers such that arr[i] + arr[j] = arr[k], if such indices are present print them as a sequence, or print "No Sequence found".

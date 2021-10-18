@@ -14,9 +14,9 @@ each subdirectory contains 3 files -
 ***
 
 ## Week 1 : 
-- Problem 1 : Linear Search for a target element in an unsorted array of positive integers, print the number of total-comparisons made.
-- Problem 2 : Binary Search for a target element in a sorted array of positive integers, print the number of total-comparisons made.
-- Problem 3 : Jump Search for a target element in a sorted array of positive integers, print the number of total-comparisons made. 
+- 1 : Linear Search for a target element in an unsorted array of positive integers, print the number of total-comparisons made.
+- 2 : Binary Search for a target element in a sorted array of positive integers, print the number of total-comparisons made.
+- 3 : Jump Search for a target element in a sorted array of positive integers, print the number of total-comparisons made. 
               (jump size : 0, 2, 4, 8, ... , 2^k)
 ## Week 2 :
 - Problem 1 : Find duplicates of a target element in a sorted array of positive integers, print the target and corresponding duplicates.

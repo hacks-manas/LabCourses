@@ -21,9 +21,9 @@ each subdirectory contains 3 files -
 ## Week 2 :
 - Problem 1 : Find duplicates of a target element in a sorted array of positive integers, print the target and corresponding duplicates.
 - Problem 2 : Find three indices i, j, k in a sorted array of positive integers such that arr[i] + arr[j] = arr[k], if such indices are present print them as a sequence, or print "No Sequence found".
-- Problem 3 : Find number of pairs of integers in an unsorted positive integer array such that their difference is equal to a given key, K.
+- Problem 3 : Find number of pairs of integers in an unsorted positive integer array such that their difference is equal to a given target element, K.
 
 ## Week 3 :
-- Problem 1 : Use Insertion sort to sort a given array, print the total number of comparisions and shifts made.
-- Problem 2 : Use Selection sort to sort a given array, print the total number of comparisions and swaps made.
+- Problem 1 : Use Insertion sort to sort a given array, print the total number of comparisons and shifts made.
+- Problem 2 : Use Selection sort to sort a given array, print the total number of comparisons and swaps made.
 - Problem 3 : Find if duplicates of a given target element are present in an unsorted positive integer array, print YES/NO as an answer.

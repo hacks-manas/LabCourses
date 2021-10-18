@@ -8,7 +8,8 @@ Design and Analysis of Algorithms (Lab)
 Each Week - X is a directory with each problem having its own subdirectory,
 each subdirectory contains 3 files - 
 * The program : named as the corresponding problem number : 1.cpp
-* The input test cases file : input.txt > (Every problem has been tested with at least the sample input test cases)
+* The input test cases file : input.txt 
+> (Every problem has been tested with at least the sample input test cases)
 * and the output file : output.txt
 ***
 

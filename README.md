@@ -13,7 +13,7 @@ each subdirectory contains 3 files -
 * and the output file : output.txt
 ***
 
-## 1 - Week 1 : 
+## Week 1 : 
 - Problem 1 : Linear Search for a target element in an unsorted array of positive integers, print the number of total-comparisons made.
 - Problem 2 : Binary Search for a target element in a sorted array of positive integers, print the number of total-comparisons made.
 - Problem 3 : Jump Search for a target element in a sorted array of positive integers, print the number of total-comparisons made. 

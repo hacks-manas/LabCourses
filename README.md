@@ -27,3 +27,8 @@ each subdirectory contains 3 files -
 - Problem 1 : Use Insertion sort to sort a given array, print the total number of comparisons and shifts made.
 - Problem 2 : Use Selection sort to sort a given array, print the total number of comparisons and swaps made.
 - Problem 3 : Find if duplicates of a given target element are present in an unsorted positive integer array, print YES/NO as an answer.
+
+## Week 4 :
+- Problem 1 : Use merge sort to sort a given array of positive integers, print the total number of comparisons and inversions made.
+- Problem 2 : Use quick sort to sort a given array of positive integers, print the total number of comparisons and swaps made.
+- Problem 3 : Find the kth smallest element in a given unsorted array of positive integers.

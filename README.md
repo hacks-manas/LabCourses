@@ -32,3 +32,8 @@ each subdirectory contains 3 files -
 - Problem 1 : Use merge sort to sort a given array of positive integers, print the total number of comparisons and inversions made.
 - Problem 2 : Use quick sort to sort a given array of positive integers, print the total number of comparisons and swaps made.
 - Problem 3 : Find the kth smallest element in a given unsorted array of positive integers.
+
+## Week 5 :
+- Problem 1 : Use counting sort to find and print the maximum number of occurences of an element in an unsorted array of alphabets (containing duplicate elements).
+- Problem 2 : Find whether two elements exist such that their sum is equal to the given key element, in an unsorted array of integers. (2-sum problem)
+- Problem 3 : Given two sorted integer arrays of size m and n, find list of elements which are common to both.

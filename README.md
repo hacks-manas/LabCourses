@@ -1,3 +1,30 @@
+# OS
+Operating System / UNIX related questions and trivia 
+***
+## Termwork/Shellscripts :
+> WASS : Write a shell script
+2. WASS to display the last access time or modification time of a given file.
+3. WASS to find out the sum  and average of five numbers.(command line).
+4. WASS to find out the sum and average of five number (keyboard).
+5. WASS to combine two files into third and count the total no of lines in third file.
+6. WASS to count the no of  lines, words and characters in a given file.
+7. WASS to count total no of words and characters in a string.
+8. WASS to check whether file exist or not.
+9. WASS to check whether file exist or not? If exist again check whether it is a regular file, directory file, blockoriented or character oriented file.
+10. WASS to find greatest among three numbers.
+
+## Termwork/Algorithms (CPU Scheduling Algorithms in C):
+11. Write a C program to implement fork system call().
+12. Write a C program to implement FCFS algorithm.
+13. Write a C program to implement SJF algorithm.
+14. Write a C program to implement round robin algorithm.
+
+> 15. Implementation of ls | wc command.
+***
+
+
+---
+
 # DAALab
 Design and Analysis of Algorithms (Lab)
 

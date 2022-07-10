@@ -28,9 +28,6 @@ Operating System / UNIX related questions and trivia
 # DAALab
 Design and Analysis of Algorithms (Lab)
 
-* As required for the course TCS-505 
-* All code written and tested in C++, courtesy of Manas Pande
-
 ***
 Each Week - X is a directory with each problem having its own subdirectory,
 each subdirectory contains 3 files - 

@@ -1,6 +1,6 @@
 # OS
 Operating System / UNIX related questions and trivia 
-***
+
 ## Termwork/Shellscripts :
 > WASS : Write a shell script
 2. WASS to display the last access time or modification time of a given file.
@@ -20,22 +20,18 @@ Operating System / UNIX related questions and trivia
 14. Write a C program to implement round robin algorithm.
 
 > 15. Implementation of ls | wc command.
-***
-
-
----
 
 # DAALab
 Design and Analysis of Algorithms (Lab)
 
-***
+---
 Each Week - X is a directory with each problem having its own subdirectory,
 each subdirectory contains 3 files - 
 * The program : named as the corresponding problem number : 1.cpp
 * The input test cases file : input.txt 
 > (Every problem has been tested with at least the sample input test cases)
 * and the output file : output.txt
-***
+---
 
 ## Week 1 : 
 - Problem 1 : Linear Search for a target element in an unsorted array of positive integers, print the number of total-comparisons made.
